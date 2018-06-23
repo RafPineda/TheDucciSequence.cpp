@@ -9,7 +9,7 @@ The Ducci Sequence will take the absolute difference between neighboring integer
  The first and last numbers in a tuple are considered neighbors for this.
  
   Given (0, 653, 1854, 4063), 
- the next expected output is [0; 653; 1854; 4063].
+ the next expected output is [653; 1201; 2209; 4063].
  
   For this code, input is expected to be in a correct format:
   (x1, x2, x3 .. xn)
