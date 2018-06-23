@@ -15,8 +15,8 @@ The Ducci Sequence will take the absolute difference between neighboring integer
   (x1, x2, x3 .. xn)
   Where there must be at least 1 integer value.
   
-    TheDucciSequence will then output all new produced tuples until it either hits a tuple of all zeroes such as [0, 0, 0]
-  or reaches a complete loop.
+TheDucciSequence will then output all new produced tuples until it either hits a tuple of all zeroes such as [0, 0, 0]
+or reaches a complete loop.
  
  
  Here is an example: 
