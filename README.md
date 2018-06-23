@@ -5,7 +5,7 @@ https://www.reddit.com/r/dailyprogrammer/comments/8sjcl0/20180620_challenge_364_
 A Ducci sequence is a sequence of n-tuples of integers.
 Given an "n"-tuple sequence, 
   for example: (0, 653, 1854, 4063),
- the Ducci Sequence will take the absolute difference between neighboring integers, and output it as a new sequence of equal tuples.
+The Ducci Sequence will take the absolute difference between neighboring integers, and output it as a new sequence of equal tuples.
  The first and last numbers in a tuple are considered neighbors for this.
  
   Given (0, 653, 1854, 4063), 
