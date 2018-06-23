@@ -20,7 +20,7 @@ or reaches a complete loop.
  
  
  Here is an example: 
-Given the input (0, 653, 1854m 4063)
+Given the input (0, 653, 1854 4063)
 
 The program will output:
 
