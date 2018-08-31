@@ -13,7 +13,8 @@ The Ducci Sequence will take the absolute difference between neighboring integer
  
   For this code, input is expected to be in a correct format:
   (x1, x2, x3 .. xn)
-  Where there must be at least 1 integer value.
+  where all values are integers.
+  Additionally, the given set must be at least 1 tuple in size.
   
 TheDucciSequence will then output all new produced tuples until it either hits a tuple of all zeroes such as [0, 0, 0]
 or reaches a complete loop.
